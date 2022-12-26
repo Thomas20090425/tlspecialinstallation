@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://drive.casks.me/api/v3/file/source/1241/cnrel33.ipa?sign=TZzZWfHNPKZ8xyhEjKMUmHtPpWHjSyAlYhHlllS5Vxs%3D%3A0</string>
+                        <string>https://drive.casks.me/api/v3/file/source/1242/test.ipa?sign=U6xBbxEunDfr0U5wpnTSEcWI1Jdck62GTqBwcgyXN2k%3D%3A0</string>
                     </dict>
                   <dict>
                 <key>kind</key>
@@ -19,7 +19,7 @@
                 <key>needs-shine</key>
                 <true/>
                 <key>url</key>
-                <string>https://raw.githubusercontent.com/Thomas20090425/tlspecialinstallation/main/1D413D73-E8F6-4D68-9017-7FAE30C519A6.jpeg</string>
+                <string>https://raw.githubusercontent.com/Thomas20090425/tlspecialinstallation/main/8CAE0918-0729-4C98-A2C7-CFB471284AD6.png</string>
                 </dict>
                 </array>
                 <key>metadata</key>
