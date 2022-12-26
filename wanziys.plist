@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://drive.casks.me/api/v3/file/source/1238/3.3.ipa?sign=ieHwGy0tcbUR44pd6fJAs173uHNvwW2nM0cTKocwKZE%3D%3A0</string>
+                    </dict>
+                  <dict>
+                <key>kind</key>
+                <string>display-image</string>
+                <key>needs-shine</key>
+                <true/>
+                <key>url</key>
+                <string>https://raw.githubusercontent.com/Thomas20090425/tlspecialinstallation/main/59F697A2-EF36-4A28-B4B3-DD3A1EC9E873.jpeg</string>
+                </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.wanzi.classroom</string>
+                    <key>bundle-version</key>
+                    <string>Classroom</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>丸子的特制Google Classroom</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
